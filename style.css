@@ -1,0 +1,24 @@
+body {
+  font-family: Arial;
+  padding: 20px;
+}
+
+#hoverBox {
+  background: lightgray;
+  padding: 10px;
+  width: 150px;
+  text-align: center;
+  margin: 10px 0;
+}
+
+.accordion-header {
+  cursor: pointer;
+  background: #ddd;
+  padding: 10px;
+}
+
+.accordion-content {
+  display: none;
+  padding: 10px;
+  background: #eee;
+}
